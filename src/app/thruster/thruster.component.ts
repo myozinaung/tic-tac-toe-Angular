@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import 'openbridge-css';
+import 'openbridge-web-components';
 import 'openbridge-css/dist/css/openbridge.css';
 
 @Component({
