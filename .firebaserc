@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "test-5c200": {
+      "hosting": {
+        "myoApp": [
+          "test-5c200"
+        ]
+      }
+    }
+  }
+}
