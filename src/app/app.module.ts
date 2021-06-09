@@ -8,6 +8,11 @@ import { environment } from '../environments/environment';
 import { SquareComponent } from './square/square.component';
 import { BoardComponent } from './board/board.component';
 import { ThrusterComponent } from './thruster/thruster.component';
+import { RollPitchComponent } from './roll-pitch/roll-pitch.component';
+import { RudderComponent } from './rudder/rudder.component';
+import { TestComponent } from './test/test.component';
+import { InstumentsComponent } from './instuments/instuments.component';
+import { HdgComponent } from './hdg/hdg.component';
 
 @NgModule({
   declarations: [
@@ -15,6 +20,11 @@ import { ThrusterComponent } from './thruster/thruster.component';
     SquareComponent,
     BoardComponent,
     ThrusterComponent,
+    RollPitchComponent,
+    RudderComponent,
+    TestComponent,
+    InstumentsComponent,
+    HdgComponent,
   ],
   imports: [
     BrowserModule,

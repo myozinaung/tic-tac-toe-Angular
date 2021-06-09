@@ -1,17 +1,1 @@
-.medium-container {
-  background-color: rgb(204, 204, 204);
-  position: absolute;
-  top: 200px;
-  left: 200px;
-  height: 256px;
-  width: 256px;
-  padding: 10px;
-  border-radius: 20px;
-  transition: 0.5s ease-in;
-  box-shadow: 0 0 1px 0 rgba(24, 94, 224, 0.15),
-    0 6px 12px 0 rgba(24, 94, 224, 0.15);
-}
 
-.medium-container:hover {
-  transform: scale(1.15);
-}
