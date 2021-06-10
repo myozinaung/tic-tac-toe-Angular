@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1623332313958,
-  "index": "tic-tac-toe-Angular/index.html",
+  "timestamp": 1623337220613,
+  "index": "/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "tic-tac-toe-Angular/favicon.ico",
-        "tic-tac-toe-Angular/index.html",
-        "tic-tac-toe-Angular/main.6502a508517f4b67452e.js",
-        "tic-tac-toe-Angular/manifest.webmanifest",
-        "tic-tac-toe-Angular/polyfills.82cc5f0cdeaafbd804ad.js",
-        "tic-tac-toe-Angular/runtime.e9b8ddc7a065966a99c8.js",
-        "tic-tac-toe-Angular/styles.60a38717096754a68499.css"
+        "/favicon.ico",
+        "/index.html",
+        "/main.d46bae73ee7450614235.js",
+        "/manifest.webmanifest",
+        "/polyfills.82cc5f0cdeaafbd804ad.js",
+        "/runtime.e9b8ddc7a065966a99c8.js",
+        "/styles.89de0b2b206f2f95b5a8.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,53 @@
         "ignoreVary": true
       },
       "urls": [
-        "tic-tac-toe-Angular/assets/icons/icon-128x128.png",
-        "tic-tac-toe-Angular/assets/icons/icon-144x144.png",
-        "tic-tac-toe-Angular/assets/icons/icon-152x152.png",
-        "tic-tac-toe-Angular/assets/icons/icon-192x192.png",
-        "tic-tac-toe-Angular/assets/icons/icon-384x384.png",
-        "tic-tac-toe-Angular/assets/icons/icon-512x512.png",
-        "tic-tac-toe-Angular/assets/icons/icon-72x72.png",
-        "tic-tac-toe-Angular/assets/icons/icon-96x96.png"
+        "/assets/icons/alert-icon.svg",
+        "/assets/icons/apps-icon.svg",
+        "/assets/icons/bright-icon.svg",
+        "/assets/icons/day-icon.svg",
+        "/assets/icons/dimming-icon.svg",
+        "/assets/icons/dusk-icon.svg",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/icons/nav-menu-icon.svg",
+        "/assets/icons/night-icon.svg",
+        "/assets/icons/user-icon.svg"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "tic-tac-toe-Angular/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "tic-tac-toe-Angular/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "tic-tac-toe-Angular/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "tic-tac-toe-Angular/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "tic-tac-toe-Angular/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "tic-tac-toe-Angular/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "tic-tac-toe-Angular/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "tic-tac-toe-Angular/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "tic-tac-toe-Angular/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "tic-tac-toe-Angular/index.html": "30105e84c1128584bed4efeec57ce338a30911d4",
-    "tic-tac-toe-Angular/main.6502a508517f4b67452e.js": "be56e9f58acd7b795b364d335e45726e2848ea74",
-    "tic-tac-toe-Angular/manifest.webmanifest": "6c9d39dea73ea3e1670b741b21a0a1d7c91657a9",
-    "tic-tac-toe-Angular/polyfills.82cc5f0cdeaafbd804ad.js": "47a30945aa3f719616e9a91a65878b9351a09fc2",
-    "tic-tac-toe-Angular/runtime.e9b8ddc7a065966a99c8.js": "d861ac0f99ace87abd2568294e7a772d010b6a91",
-    "tic-tac-toe-Angular/styles.60a38717096754a68499.css": "8c9c9b00de215f2cb84a8e958c854c16853af51a"
+    "/assets/icons/alert-icon.svg": "c88066fded427f2ff171bd979d7e6c6a3e95422b",
+    "/assets/icons/apps-icon.svg": "430ff58f4508f2ea6d11e5568176ded580de3ee9",
+    "/assets/icons/bright-icon.svg": "4b4c6ea1fed2bcd05f2b637041cd0443179c425c",
+    "/assets/icons/day-icon.svg": "365833b1f3645ec336abdde9cfbaab6f7ac9f72c",
+    "/assets/icons/dimming-icon.svg": "8ff0d0ba32c5a6a5b380b5b6ffd7639ced156d1b",
+    "/assets/icons/dusk-icon.svg": "8d082cc5dc5cce44b5160bf12b73d31fd4a002b4",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/icons/nav-menu-icon.svg": "b330d6c4806dcd8023cd49188988e08796daaab8",
+    "/assets/icons/night-icon.svg": "399b48f48941aeac8f4a81e9f5fc3afcfef621ac",
+    "/assets/icons/user-icon.svg": "82a4fab0eaeb8b88562b23a3ecc04af356c40c31",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "060b02ced68d5a863202d5e8f2aa6cc19c1c64e8",
+    "/main.d46bae73ee7450614235.js": "92bb2bc6c678592111d328c0a6695aa22c822046",
+    "/manifest.webmanifest": "6c9d39dea73ea3e1670b741b21a0a1d7c91657a9",
+    "/polyfills.82cc5f0cdeaafbd804ad.js": "47a30945aa3f719616e9a91a65878b9351a09fc2",
+    "/runtime.e9b8ddc7a065966a99c8.js": "d861ac0f99ace87abd2568294e7a772d010b6a91",
+    "/styles.89de0b2b206f2f95b5a8.css": "22e4521d92194d2a5affb51800e61534c3fe69ff"
   },
   "navigationUrls": [
     {
