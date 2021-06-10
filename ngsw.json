@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1623337687882,
+  "timestamp": 1623338086607,
   "index": "tic-tac-toe-Angular/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "tic-tac-toe-Angular/favicon.ico",
         "tic-tac-toe-Angular/index.html",
-        "tic-tac-toe-Angular/main.d46bae73ee7450614235.js",
+        "tic-tac-toe-Angular/main.3ae7505e2450532736a2.js",
         "tic-tac-toe-Angular/manifest.webmanifest",
         "tic-tac-toe-Angular/polyfills.82cc5f0cdeaafbd804ad.js",
         "tic-tac-toe-Angular/runtime.e9b8ddc7a065966a99c8.js",
@@ -70,8 +70,8 @@
     "tic-tac-toe-Angular/assets/icons/night-icon.svg": "399b48f48941aeac8f4a81e9f5fc3afcfef621ac",
     "tic-tac-toe-Angular/assets/icons/user-icon.svg": "82a4fab0eaeb8b88562b23a3ecc04af356c40c31",
     "tic-tac-toe-Angular/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "tic-tac-toe-Angular/index.html": "171973b8be5c4b7df2b3875a6f21b94f8ed1a119",
-    "tic-tac-toe-Angular/main.d46bae73ee7450614235.js": "92bb2bc6c678592111d328c0a6695aa22c822046",
+    "tic-tac-toe-Angular/index.html": "b76278843e41dae2af2b25d2c81e42b7a9224e97",
+    "tic-tac-toe-Angular/main.3ae7505e2450532736a2.js": "9492b17959ebf142c32434dd1373e7a637a99c9c",
     "tic-tac-toe-Angular/manifest.webmanifest": "6c9d39dea73ea3e1670b741b21a0a1d7c91657a9",
     "tic-tac-toe-Angular/polyfills.82cc5f0cdeaafbd804ad.js": "47a30945aa3f719616e9a91a65878b9351a09fc2",
     "tic-tac-toe-Angular/runtime.e9b8ddc7a065966a99c8.js": "d861ac0f99ace87abd2568294e7a772d010b6a91",
