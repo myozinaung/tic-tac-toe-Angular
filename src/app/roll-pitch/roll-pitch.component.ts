@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import 'openbridge-web-components';
-import 'openbridge-css/dist/css/openbridge.css';
 
 @Component({
   selector: 'app-roll-pitch',
