@@ -13,6 +13,8 @@ import { RudderComponent } from './rudder/rudder.component';
 import { TestComponent } from './test/test.component';
 import { InstumentsComponent } from './instuments/instuments.component';
 import { HdgComponent } from './hdg/hdg.component';
+import { TopNavbarComponent } from './top-navbar/top-navbar.component';
+import { DimmingMenuComponent } from './top-navbar/dimming-menu/dimming-menu.component';
 
 @NgModule({
   declarations: [
@@ -25,6 +27,8 @@ import { HdgComponent } from './hdg/hdg.component';
     TestComponent,
     InstumentsComponent,
     HdgComponent,
+    TopNavbarComponent,
+    DimmingMenuComponent,
   ],
   imports: [
     BrowserModule,
